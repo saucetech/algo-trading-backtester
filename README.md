@@ -32,7 +32,7 @@ price_df = get_stock_data('TSLA', '2018-01-01', '2021-12-31')
 
 Users may choose any stock or crypto as well as any time period. The date format must be in YYYY-MM-DD. To choose a crypto, the function get_stock_data must be replaced with get_crypto_data.
 
-## Contirbutors
+## Contributors
 Austin Do (austindotech@gmail.com), Nev Douglas, Kanika Sharma (ksharmaconnect3@gmail.com), Jason Muenzen (jmuenzen@gmail.com), Max Gregory (maximillian.gregory@gmail.com)
 
 
