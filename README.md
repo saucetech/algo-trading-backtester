@@ -18,7 +18,7 @@ This project leverages Python 3.7 in Google Colab with the following libraries:
 
 ## Installation Guide
 
-To use this notebook, simply open the Google Colab notebook and run the notebook. The required installations should be listed in the first cell of the notebook. Simply run the cell to install the required libraries.
+To use this notebook, open the Google Colab notebook and run the notebook. The required installations should be listed in the first cell of the notebook. Simply run the cell to install the required libraries.
 
 ## Usage
 
