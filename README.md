@@ -40,10 +40,12 @@ The SVM Model produced the following results:
 ![image](https://user-images.githubusercontent.com/89708427/149682428-986aca44-b293-4e6e-bb8c-de2d85bdb3cb.png)
 
 The Logisitic Regression model resulted in an accuracy of 0.578:
+
 ![image](https://user-images.githubusercontent.com/89708427/149682457-ed4bdcd8-ef7e-4282-9e47-5247c54acdc9.png)
 
+Using GridSearch to find the best trading window, the follwing Heatmap was produced: 
 
-
+![image](https://user-images.githubusercontent.com/89708427/149682484-fe447428-b34d-484c-a5f9-1c10b4584851.png)
 
 
 ## Contributors
