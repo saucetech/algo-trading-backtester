@@ -37,6 +37,13 @@ The SVM Model produced the following results:
 
 ![image](https://user-images.githubusercontent.com/89708427/149682400-b4248dab-9235-479a-91e4-867d786a5d93.png)
 
+![image](https://user-images.githubusercontent.com/89708427/149682428-986aca44-b293-4e6e-bb8c-de2d85bdb3cb.png)
+
+The Logisitic Regression model resulted in an accuracy of 0.578:
+![image](https://user-images.githubusercontent.com/89708427/149682457-ed4bdcd8-ef7e-4282-9e47-5247c54acdc9.png)
+
+
+
 
 
 ## Contributors
