@@ -47,6 +47,11 @@ Using GridSearch to find the best trading window, the follwing Heatmap was produ
 
 ![image](https://user-images.githubusercontent.com/89708427/149682484-fe447428-b34d-484c-a5f9-1c10b4584851.png)
 
+The following Sharpe Ratio Heatmap was produced with the range of trading Window combinations:
+
+![image](https://user-images.githubusercontent.com/89708427/149682611-edb85771-8b0a-4718-8cca-2a2e6e575cdc.png)
+
+
 Using the optimal Trading Window, the algo performance vs the actual stock performance was captured here: 
 
 ![image](https://user-images.githubusercontent.com/89708427/149682562-3ea2d446-3de3-4818-9175-061b4244f13b.png)
