@@ -56,7 +56,8 @@ Using the optimal Trading Window, the algo performance vs the actual stock perfo
 
 ![image](https://user-images.githubusercontent.com/89708427/149682562-3ea2d446-3de3-4818-9175-061b4244f13b.png)
 
-
+## Direct Access to Project
+In the instance one would like to access the project via Google Colab and the project cannot be viewed in this Repository, please use the following link: https://colab.research.google.com/drive/1N6bBfsWvvmnC4eSdUBjZxEiiTKTv5gKb?authuser=2#scrollTo=UcwXodioqwZK 
 
 ## Contributors
 Austin Do (austindotech@gmail.com), Nev Douglas, Kanika Sharma (ksharmaconnect3@gmail.com), Jason Muenzen (jmuenzen@gmail.com), Max Gregory (maximillian.gregory@gmail.com)
