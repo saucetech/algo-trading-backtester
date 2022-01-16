@@ -47,6 +47,10 @@ Using GridSearch to find the best trading window, the follwing Heatmap was produ
 
 ![image](https://user-images.githubusercontent.com/89708427/149682484-fe447428-b34d-484c-a5f9-1c10b4584851.png)
 
+Using the optimal Trading Window, the algo performance vs the actual stock performance was captured here: 
+
+![image](https://user-images.githubusercontent.com/89708427/149682540-506180f1-57c2-4e04-9e32-262a284b6408.png)
+
 
 ## Contributors
 Austin Do (austindotech@gmail.com), Nev Douglas, Kanika Sharma (ksharmaconnect3@gmail.com), Jason Muenzen (jmuenzen@gmail.com), Max Gregory (maximillian.gregory@gmail.com)
