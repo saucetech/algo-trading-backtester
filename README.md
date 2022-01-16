@@ -47,7 +47,7 @@ Once the customizations are complete, run the cells in order to view the results
 
 
 ## Summary Results 
-After using GridSearch and Fastquant, we were able to find the optimal Trading Window for our SMAC algo with TSLA stock. We then created an SVM model using the same closing pricing data which unfortunatly perofmed worse than the standard SMAC trading strategy.  Lastly,we created a Logistic Regression model which perofmed better than the SVM model and inline with the SMAC optimal trading windows.  
+After using GridSearch and Fastquant, we were able to find the optimal Trading Window for our SMAC algo with TSLA stock. We then created an SVM model using the same closing pricing data which, unfortunatly, performed worse than the standard SMAC trading strategy.  Lastly, we created a Logistic Regression model which performed better than the SVM model and inline with the SMAC optimal trading windows.  
 
 The SVM Model produced the following results:
 
