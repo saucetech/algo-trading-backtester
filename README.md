@@ -32,8 +32,10 @@ price_df = get_stock_data('TSLA', '2018-01-01', '2021-12-31')
 
 Users may choose any stock or crypto as well as any time period. The date format must be in YYYY-MM-DD. To choose a crypto, the function get_stock_data must be replaced with get_crypto_data.
 
-##**Summary Results**
+## Summary Results 
 The SVM Model produced the following results:
+
+![image](https://user-images.githubusercontent.com/89708427/149682400-b4248dab-9235-479a-91e4-867d786a5d93.png)
 
 
 
